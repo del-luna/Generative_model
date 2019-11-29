@@ -14,3 +14,7 @@ Workspace : colab<br>
 
 ## Requirements<br>
 Pytorch -- 1.3.1
+<br>
+
+## Reference
+[github](https://github.com/pytorch/examples/blob/master/vae/main.py)
