@@ -15,14 +15,19 @@ Workspace : colab<br>
 
 <br>
 
+
 ### GAN
-<br>
-![gan](https://user-images.githubusercontent.com/46425982/93425857-d0ae9600-f8f5-11ea-86c1-b22cfe2428d2.gif)
+
+
+![gan](https://user-images.githubusercontent.com/46425982/93426367-d789d880-f8f6-11ea-9a98-340a0342af7f.gif)
+
+
 
 <br>
 
 ### DCGAN
-<br>
+
+
 ![DCGAN](https://user-images.githubusercontent.com/46425982/93425893-e623c000-f8f5-11ea-88a6-8c871004caa0.gif)
 
 <br>
