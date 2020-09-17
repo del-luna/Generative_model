@@ -8,7 +8,7 @@ Workspace : colab<br>
 <br>
 
 ### VAE<br>
-<img src = "https://jaeheondev.github.io/assets/img/VAE/vae_mnist.gif">
+<img src = "https://py-tonic.github.io/assets/img/VAE/vae_mnist.gif">
 <br>
 
 
