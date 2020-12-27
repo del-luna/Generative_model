@@ -1,6 +1,7 @@
 
 Using mnist Dataset<br>  
 Workspace : colab<br>
+no update<br>
 <br>
 ## list
 - VAE
