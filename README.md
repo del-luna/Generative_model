@@ -1,6 +1,8 @@
 
 Using mnist Dataset<br>  
 Workspace : colab<br>
+python 3.6.5<br>
+
 no update<br>
 <br>
 ## list
